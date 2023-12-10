@@ -1,0 +1,7 @@
+firefox
+https://school.moodledemo.net/
+privacyofficer
+moodle
+
+1
+approve
